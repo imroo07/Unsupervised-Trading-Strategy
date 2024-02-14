@@ -1,1 +1,1 @@
-# Unsupervised-Trading-Strategy-
+# Unsupervised-Trading-Strategy
